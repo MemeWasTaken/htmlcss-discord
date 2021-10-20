@@ -1,2 +1,18 @@
-Exercise: 
-repository: 
+Exercise: Discord
+repository: htmlcss-discord
+
+Riproduciamo il layout come da screenshot cercando di essere il più fedeli possibili.
+Analizziamo sempre prima il layout e scriviamo dei commenti per individuare le macroaree.
+Partiamo dai blocchi colorati e solo quando tutto funziona passiamo al dettaglio, sezione per sezione.
+Creiamo delle classi riutilizzabili individuando gli elementi ricorrenti nel layout, capendo quindi come e cosa possiamo centralizzare per rendere il nostro codice il più possibile semplice, pulito e quindi mantenibile.
+Partiamo copiando il codice fatto in classe e proseguiamo da soli con le sezioni successive.
+
+CONSIGLI:
+Ricordiamo che i contenuti in un sito reale possono modificarsi, diventare più lunghi o più corti, potrebbe essere aggiunto un link o eliminato...
+Il nostro lavoro quindi deve essere il più possibile adattabile a certi cambiamenti.
+Non lavoriamo ancora sul responsive, quindi la nostra pagina non deve adattarsi a tutti i possibili viewport.
+Fate un passo alla volta. I risultati complessi sono ottenuti da tante soluzioni base, assemblate in modo utile.
+
+BONUS:
+Ondina di sfondo della seconda section.
+Effetto su hover btn come da sito originale.
